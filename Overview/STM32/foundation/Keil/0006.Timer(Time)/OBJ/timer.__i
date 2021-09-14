@@ -1,0 +1,6 @@
+--c99 -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\CORE -I ..\USER -I ..\STM32F103x_FWLIB\inc -I .\led -I ..\Sys\delay -I ..\Sys\sys
+-I.\RTE\_LED
+-ID:\AllPath\MDK\ARM\PACK\Keil\STM32F1xx_DFP\2.1.0\Device\Include
+-ID:\AllPath\MDK\ARM\CMSIS\Include
+-D__UVISION_VERSION="526" -DSTM32F10X_HD -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER
+-o ..\obj\timer.o --omf_browse ..\obj\timer.crf --depend ..\obj\timer.d "..\Sys\delay\timer.c"

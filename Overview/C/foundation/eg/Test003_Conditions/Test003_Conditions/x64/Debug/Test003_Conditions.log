@@ -1,0 +1,13 @@
+﻿  Test003Conditions.c
+  Test003_Add.c
+D:\Study\1.C\Test003_Conditions\Test003_Conditions\Test003_Add.c(10,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\Study\1.C\Test003_Conditions\Test003_Conditions\Test003_Add.c(10,9): message : 请考虑在格式字符串中使用“%zd”
+D:\Study\1.C\Test003_Conditions\Test003_Conditions\Test003_Add.c(11,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\Study\1.C\Test003_Conditions\Test003_Conditions\Test003_Add.c(11,9): message : 请考虑在格式字符串中使用“%zd”
+D:\Study\1.C\Test003_Conditions\Test003_Conditions\Test003_Add.c(12,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\Study\1.C\Test003_Conditions\Test003_Conditions\Test003_Add.c(12,9): message : 请考虑在格式字符串中使用“%zd”
+D:\Study\1.C\Test003_Conditions\Test003_Conditions\Test003_Add.c(13,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\Study\1.C\Test003_Conditions\Test003_Conditions\Test003_Add.c(13,9): message : 请考虑在格式字符串中使用“%zd”
+  Test003_Add01.c
+  正在生成代码...
+  Test003_Conditions.vcxproj -> D:\Study\1.C\Test003_Conditions\x64\Debug\Test003_Conditions.exe

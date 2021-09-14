@@ -1,0 +1,4 @@
+﻿  Test003_Add.c
+D:\Study\1.C\Test003_Conditions\Test003_Conditions\Test003_Add.c(6,1): warning C4005: “INT_MAX”: 宏重定义
+D:\AllPath\VS2019\VC\Tools\MSVC\14.28.29333\include\limits.h(36): message : 参见“INT_MAX”的前一个定义
+  Test003_Conditions.vcxproj -> D:\Study\1.C\Test003_Conditions\Debug\Test003_Conditions.exe
